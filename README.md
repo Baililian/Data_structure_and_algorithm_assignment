@@ -1,6 +1,6 @@
 DATA STRUCTURES AND ALGORITHM 
 
-The next folder is named "Screenshot". That contains eleven screenshots of the graph or the output.
+The folder named "Screenshot" contains eleven screenshots of the graphs or the output.
 
 The folder named "Folder" contains three files. The files are "fileOs.py", "numbers.txt", and "result.txt".
   -"fileOs.py" contains the code 
